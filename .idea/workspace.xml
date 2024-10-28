@@ -41,6 +41,26 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="techjobs-oo-java17-graded" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -76,7 +96,7 @@
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
     "Gradle.Build techjobs-oo-java-graded-17.executor": "Run",
-    "Gradle.JobTest.executor": "Run",
+    "Gradle.JobTest.executor": "Coverage",
     "Gradle.Tests in 'org.launchcode.techjobs.oo'.executor": "Run",
     "JUnit.JobTest.executor": "Run",
     "Repository.Attach.Annotations": "false",
@@ -88,10 +108,11 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/james/git/techjobs-oo-java-graded-17"
+    "last_opened_file_path": "C:/Users/james/git/techjobs-oo-java-graded-17",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.JobTest">
+  <component name="RunManager" selected="Gradle.Tests in 'org.launchcode.techjobs.oo'">
     <configuration name="JobTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -159,8 +180,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.JobTest" />
         <item itemvalue="Gradle.Tests in 'org.launchcode.techjobs.oo'" />
+        <item itemvalue="Gradle.JobTest" />
       </list>
     </recent_temporary>
   </component>
@@ -174,5 +195,8 @@
       <updated>1685977091317</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/techjobs_oo_java17_graded$JobTest.ic" NAME="JobTest Coverage Results" MODIFIED="1730070787139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
